@@ -1,0 +1,18 @@
+.row{
+    color:rgb(0, 0, 0)
+}
+.btn btn-danger px-3{
+    color:goldenrod
+}
+.footer{
+    background-color: #93e0dd;
+    padding-top: 40px;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(196, 8, 8);
+    height: 180px;
+  }
+  
+  .footer:hover{
+    background-color: #0d0213;
+  }
